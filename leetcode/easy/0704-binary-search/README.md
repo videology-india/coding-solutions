@@ -44,7 +44,7 @@ Explanation: 2 does not exist in nums so return -1
 **Language:** C++  
 **Runtime:** 0 ms (beats 100.00%)  
 **Memory:** 31.1 MB (beats 88.12%)  
-**Submitted:** 2026-11-21T05:37:10.040Z  
+**Submitted:** 2026-11-21T05:37:37.766Z  
 
 ```cpp
 
